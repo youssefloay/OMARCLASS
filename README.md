@@ -132,7 +132,7 @@ We welcome all contributors! If you want to make **OmarClass** even better, here
 
 Here’s a sneak peek of **OmarClass**:
 
-![OmarClass Screenshot](https://via.placeholder.com/800x400?text=OmarClass+Preview)
+
 
 ---
 
@@ -141,7 +141,7 @@ Here’s a sneak peek of **OmarClass**:
 For any questions, feedback, or collaboration opportunities, feel free to reach out!  
 
 💼 **Author**: Youssef Loay  
-📩 **Email**: [your_email@example.com]  
+
 
 ---
 
